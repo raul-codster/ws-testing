@@ -1,11 +1,11 @@
-# WS-Testing
+# WS-Testing
 
-## Typescript 
+## Typescript 
 ~~~
  npm install -D @types/node ts-node typescript
 ~~~
 
-## Jest 
+## Jest 
 ~~~
   npm install -D jest @types/jest ts-jest jest-esbuild
 ~~~
